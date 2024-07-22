@@ -19,7 +19,7 @@ State Management:
 ->To get started with Tomato, follow these steps:
 
 Clone the Repository:
-->git clone https://github.com/your-username/tomato.git
+->git clone https://github.com/Priyashakaran/Food-Delivery-app.git
 ->cd tomato
 
 Install Dependencies:
